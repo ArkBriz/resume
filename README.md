@@ -1,5 +1,5 @@
 # Мое резюме
 
-## Моя первая работа по HTML & CSS
+### Результат можно посмотреть тут:
 
-[Результат можно посмотреть тут:](https://arkbriz.github.io/resume/)
+[Моя первая работа по HTML & CSS:](https://arkbriz.github.io/resume/)
